@@ -17,6 +17,10 @@ section{
     margin: auto;
 }
 
+select{
+    width: 150px;
+}
+
 header h1{
    text-align: center;
    padding: 20px;
